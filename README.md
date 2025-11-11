@@ -31,16 +31,7 @@
 - **[慎用] Google 在中国大陆可直连的域名列表 google.txt**：
   - [https://raw.githubusercontent.com/Lonense/quanx-rules/release/google.txt](https://raw.githubusercontent.com/Lonense/quanx-rules/release/google.txt)
   - [https://cdn.jsdelivr.net/gh/Lonense/quanx-rules@release/google.txt](https://cdn.jsdelivr.net/gh/Lonense/quanx-rules@release/google.txt)
-- **GFWList 域名列表 gfw.txt**：
-  - [https://raw.githubusercontent.com/Lonense/quanx-rules/release/gfw.txt](https://raw.githubusercontent.com/Lonense/quanx-rules/release/gfw.txt)
-  - [https://cdn.jsdelivr.net/gh/Lonense/quanx-rules@release/gfw.txt](https://cdn.jsdelivr.net/gh/Lonense/quanx-rules@release/gfw.txt)
-- **非中国大陆使用的顶级域名列表 tld-not-cn.txt**：
-  - [https://raw.githubusercontent.com/Lonense/quanx-rules/release/tld-not-cn.txt](https://raw.githubusercontent.com/Lonense/quanx-rules/release/tld-not-cn.txt)
-  - [https://cdn.jsdelivr.net/gh/Lonense/quanx-rules@release/tld-not-cn.txt](https://cdn.jsdelivr.net/gh/Lonense/quanx-rules@release/tld-not-cn.txt)
 - **Telegram 使用的 IP 地址列表 telegramcidr.txt**：
   - [https://raw.githubusercontent.com/Lonense/quanx-rules/release/telegramcidr.txt](https://raw.githubusercontent.com/Lonense/quanx-rules/release/telegramcidr.txt)
   - [https://cdn.jsdelivr.net/gh/Lonense/quanx-rules@release/telegramcidr.txt](https://cdn.jsdelivr.net/gh/Lonense/quanx-rules@release/telegramcidr.txt)
-- **中国大陆 IP 地址列表 cncidr.txt**：
-  - [https://raw.githubusercontent.com/Lonense/quanx-rules/release/cncidr.txt](https://raw.githubusercontent.com/Lonense/quanx-rules/release/cncidr.txt)
-  - [https://cdn.jsdelivr.net/gh/Lonense/quanx-rules@release/cncidr.txt](https://cdn.jsdelivr.net/gh/Lonense/quanx-rules@release/cncidr.txt)
 
